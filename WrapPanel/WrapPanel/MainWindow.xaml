@@ -1,0 +1,24 @@
+﻿<Window x:Class="WrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <WrapPanel Orientation="Vertical">
+        <Rectangle Fill="Red" Width="50" Height="50" />
+        <Rectangle Fill="Orange" Width="50" Height="50" />
+        <Rectangle Fill="Yellow" Width="50" Height="50" />
+        <Rectangle Fill="Green" Width="50" Height="50" />
+        <Rectangle Fill="Blue" Width="50" Height="50" />
+        <Rectangle Fill="Indigo" Width="50" Height="50" />
+        <Rectangle Fill="Violet" Width="50" Height="50" />
+        <Rectangle Fill="Red" Width="50" Height="50" />
+        <Rectangle Fill="Orange" Width="50" Height="50" />
+        <Rectangle Fill="Yellow" Width="50" Height="50" />
+        <Rectangle Fill="Green" Width="50" Height="50" />
+        <Rectangle Fill="Blue" Width="50" Height="50" />
+        <Rectangle Fill="Indigo" Width="50" Height="50" />
+        <Rectangle Fill="Violet" Width="50" Height="50" />
+    </WrapPanel>
+</Window>
+
+<!--    A wrap panel places your objects side by side until they no longer fit. And then creates a second row until fitting...then created a third row.-->
+<!-- move the (compiled) windows to see how the items adjust themselves-->

@@ -1,0 +1,12 @@
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\bin\Debug\WrapPanel.pdb
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\WrapPanel.csprojResolveAssemblyReference.cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\MainWindow.baml
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\MainWindow.g.cs
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\App.g.cs
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\WrapPanel.g.resources
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\WrapPanel.Properties.Resources.resources
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\WrapPanel.csproj.GenerateResource.Cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\WrapPanel.exe
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\WrapPanel\WrapPanel\obj\Debug\WrapPanel.pdb

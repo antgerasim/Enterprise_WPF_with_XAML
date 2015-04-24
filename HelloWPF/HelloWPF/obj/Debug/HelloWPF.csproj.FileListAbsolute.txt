@@ -1,0 +1,12 @@
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csprojResolveAssemblyReference.cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.Cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb

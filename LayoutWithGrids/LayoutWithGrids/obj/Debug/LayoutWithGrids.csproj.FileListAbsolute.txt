@@ -1,0 +1,12 @@
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\bin\Debug\LayoutWithGrids.exe
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\bin\Debug\LayoutWithGrids.pdb
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\LayoutWithGrids.csprojResolveAssemblyReference.cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\MainWindow.baml
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\MainWindow.g.cs
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\App.g.cs
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\LayoutWithGrids_MarkupCompile.cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\LayoutWithGrids.g.resources
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\LayoutWithGrids.Properties.Resources.resources
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\LayoutWithGrids.csproj.GenerateResource.Cache
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\LayoutWithGrids.exe
+F:\WorkspaceVs2012\Projects\DonTraining\WpfTraining\Pluralsight\LayoutWithGrids\LayoutWithGrids\obj\Debug\LayoutWithGrids.pdb
